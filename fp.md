@@ -5,13 +5,13 @@
 ## ファンクション種類
 ---
 * データファンクション
-  * ILF(Internal Logical File):追加・更新・削除など操作対象となるファイル
-  * EIF(External Interface File):参照されるファイル
+  * ILF(Internal Logical File) ⇒ 追加・更新・削除など操作対象となるファイル
+  * EIF(External Interface File) ⇒ 参照されるファイル
 
 * トランザクショナルファンクション
-  * EI(External Input):データを受け取る処理(ILFに対してデータの追加・変更・削除を行う)
-  * EO(External Output):データを外部へ出力する処理(ILF、EIFから参照したデータを加工してから出力)
-  * EQ(External inQuiry):データを外部へ出力する処理(ILF、EIFから参照したデータを加工しないで出力)
+  * EI(External Input) ⇒ データを受け取る処理(ILFに対してデータの追加・変更・削除を行う)
+  * EO(External Output) ⇒ データを外部へ出力する処理(ILF、EIFから参照したデータを加工してから出力)
+  * EQ(External inQuiry) ⇒ データを外部へ出力する処理(ILF、EIFから参照したデータを加工しないで出力)
 
 ## 複雑度
 ---
