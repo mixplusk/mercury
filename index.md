@@ -1,12 +1,6 @@
 # [MyPage](https://mixplusk.github.io/mercury/)
-
-
-## PMPプロジェクトとは
-* 有期性
-* 独自性
-* 段階的詳細化
-
-
+よくみるサイトを集めたもの  
+  
 ## Markdown
 
 ---
@@ -18,6 +12,6 @@
 ## MyPage
 
 ---
-* [MyPage](https://mixplusk.github.io/mercury/)
+
 
 * [ファンクションポイント](fp.md)
