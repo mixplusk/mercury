@@ -1,10 +1,10 @@
-# 目次
+# [MyPage](https://mixplusk.github.io/mercury/)
 
-* PMPプロジェクトとは
-    * 有期性
-    * 独自性
-    * 段階的詳細化
 
+## PMPプロジェクトとは
+* 有期性
+* 独自性
+* 段階的詳細化
 
 
 ## Markdown
