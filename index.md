@@ -18,5 +18,6 @@
 ## MyPage
 
 ---
+* [MyPage](https://mixplusk.github.io/mercury/)
 
 * [ファンクションポイント](fp)
