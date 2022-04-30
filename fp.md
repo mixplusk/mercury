@@ -9,9 +9,9 @@
   * EIF(External Interface File) ⇒ 参照されるファイル
 
 * トランザクショナルファンクション
-  * EI(External Input) ⇒ データを受け取る処理(ILFに対してデータの追加・変更・削除を行う)
-  * EO(External Output) ⇒ データを外部へ出力する処理(ILF、EIFから参照したデータを加工してから出力)
-  * EQ(External inQuiry) ⇒ データを外部へ出力する処理(ILF、EIFから参照したデータを加工しないで出力)
+  * EI(External Input) 
+  * EO(External Output) 
+  * EQ(External inQuiry) 
 
 ## 複雑度
 ---

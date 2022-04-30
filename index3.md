@@ -20,4 +20,4 @@
 ---
 * [MyPage](https://mixplusk.github.io/mercury/)
 
-* [ファンクションポイント](fp)
+* [ファンクションポイント](fp.md)
