@@ -13,6 +13,14 @@
 ⇒ [Qiita テストカバレッジをフローチャートで確認する](https://qiita.com/mochio/items/c5d183fe5539d697bc27)  
 
 
+## 振り返り
+---
+* KPT法（Keep／Problem／Try）  
+⇒　仕事や活動を改善するための振り返り方法のひとつ（Keep → Problem → Tryの順に振り返る）
+  * Keep ・・・うまくいったこと・このまま継続すること
+  * Problem・・・課題・問題点
+  * Try・・・新たに実践すること・問題や課題の解決策
+
 ## Markdown
 ---
 * [Qiita マークダウン記法 一覧表](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
