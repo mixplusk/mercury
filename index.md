@@ -1,7 +1,6 @@
-# [システム開発　備忘録チャネル](https://mixplusk.github.io/mercury/)
+# [システム開発 備忘録チャネル](https://mixplusk.github.io/mercury/)
 よくみるサイトを集めたもの  
   
-
 
 ## 開発工程
 ---
@@ -14,18 +13,11 @@
 ⇒ [Qiita テストカバレッジをフローチャートで確認する](https://qiita.com/mochio/items/c5d183fe5539d697bc27)  
 
 
-
 ## Markdown
-
 ---
-
 * [Qiita マークダウン記法 一覧表](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
 
 
-
 ## MyPage
-
 ---
-
-
 * [ファンクションポイント](fp.md)
